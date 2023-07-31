@@ -5,9 +5,6 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
 ## Stats
-
-![rulestheworld's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=rulestheworld&theme=transparent&hide_border=true)
-
 ![rulestheworld's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rulestheworld&layout=donut&theme=transparent&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=rulestheworld&color=blue)
