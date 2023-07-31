@@ -6,10 +6,10 @@
 
 ## Stats
 
-![rulesthworld's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=rulesthworld&theme=transparent&hide_border=true)
+![rulestheworld's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=rulestheworld&theme=transparent&hide_border=true)
 
-![rulesthworld's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rulesthworld&layout=donut&theme=transparent&hide_border=true)
+![rulestheworld's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rulestheworld&layout=donut&theme=transparent&hide_border=true)
 
-![rulesthworld's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=rulesthworld&theme=transparent&v=2&hide_border=true)
+![rulestheworld's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=rulestheworld&theme=transparent&v=2&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=rulesthworld&color=blue)
+![](https://komarev.com/ghpvc/?username=rulestheworld&color=blue)
